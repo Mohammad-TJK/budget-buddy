@@ -1,56 +1,22 @@
-Budget Buddy
+# budget-buddy
+
 Group Members
 
-Mohammad
-Joshua
-Zack
+Mohammad, Joshua, Zack
 
-Project Summary
+# Project Summary
 
-Budget Buddy is a simple Python app that helps users track income and expenses. It shows how much money is left or overspent each month and is designed for beginners learning budgeting.
+Our group created Budget Buddy, a simple Python app that helps users track income and expenses. It calculates how much money is left or overspent each month.
 
-Features
+# How It Works
 
-Enter income and expenses
+budget_gui.py runs the main program and shows the GUI.
 
-Automatic balance calculation
+classes_project_9.py (in the library folder) handles all the math using classes.
 
-GUI for easy interaction
+The user enters income and expenses, and the program updates their balance automatically.
 
-Class system to organize all budget logic
+# What We Learned
 
-How It Works
+We learned how to use Python classes, create a GUI, and use GitHub to organize and share code as a group.
 
-budget_gui.py launches the GUI
-
-classes_project_9.py (in the library folder) contains the Budget class
-
-GUI handles user input; the class handles calculations
-
-Both files work together to update the balance
-
-How to Run
-
-Open budget_gui.py
-
-Run it with Python
-
-The GUI appears and you can start entering values
-
-What We Learned
-
-Designing and using Python classes
-
-Building a simple GUI
-
-Structuring a project across multiple files
-
-Collaborating using GitHub
-
-Future Improvements
-
-Add graphs for spending trends
-
-Add expense categories
-
-Add saving/loading of monthly records
